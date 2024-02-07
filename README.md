@@ -1,0 +1,2 @@
+# Interfaces_Labs
+Deklarative Programmierung grafischer Schnittstellen
